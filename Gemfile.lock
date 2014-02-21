@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    deep_transform_hash (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.2.3)
+    rake (10.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  deep_transform_hash!
+  minitest (~> 5.1)
+  rake (~> 10.1)
